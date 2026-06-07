@@ -29,4 +29,24 @@ Identified NULL and empty values
 ### Outcome
 Understood that data cleaning is required across the entire system before analysis.
 
+salary_id,emp_id,salary,salary_date
+
+## Day 3: Data Cleaning (Handling Missing Values)
+
+### Objective
+Clean the dataset by handling missing values across multiple tables.
+
+### Tasks Completed
+- Created cleaned versions of tables (employees_clean, departments_clean, performance_clean)
+- Converted empty values into NULL for consistency
+- Replaced NULL and empty values with appropriate defaults
+
+### Key Learning
+- NULL and empty values are different but both need to be handled
+- Data should not be cleaned directly in raw tables
+- Business rules are important while filling missing values
+
+### Outcome
+Dataset is now more structured and ready for further cleaning and analysis.
+
 
