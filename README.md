@@ -49,10 +49,10 @@ Clean the dataset by handling missing values across multiple tables.
 ### Outcome
 Dataset is now more structured and ready for further cleaning and analysis.
 
-Day 4: Data Cleaning (Handling Inconsistent Text)
-Objective
+###Day 4: Data Cleaning (Handling Inconsistent Text)
+###Objective
 Clean the dataset by fixing inconsistent text values across columns.
-Tasks Completed
+###Tasks Completed
 Identified inconsistent text formats (e.g., HR, hr, Hr)
 Standardized text using functions like UPPER(), LOWER(), INITCAP()
 Trimmed extra spaces using TRIM()
@@ -62,7 +62,23 @@ Key Learning
 Text inconsistency affects grouping and analysis
 Same values with different formats behave as different data
 Standardization is critical before applying aggregations
-Outcome
+###Outcome
 Text data is now consistent, making grouping, filtering, and analysis accurate.
+
+###Day 5: Data Cleaning (Handling Invalid Values)
+###Objective
+Identify and fix logically incorrect or invalid values in the dataset.
+###Tasks Completed
+Detected invalid values (negative salary, invalid age, incorrect ratings)
+Applied business rules to define valid ranges
+Replaced incorrect values using client-provided data
+Used CASE WHEN and JOIN-based updates for corrections
+Ensured no assumption-based fixes were applied
+Key Learning
+Invalid values are not always missing but logically incorrect
+Data should be corrected using trusted sources (client/system)
+Never blindly manipulate values without business context
+###Outcome
+Dataset now contains only valid and reliable values, improving data accuracy.
 
 
