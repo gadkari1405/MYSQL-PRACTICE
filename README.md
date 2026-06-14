@@ -121,4 +121,10 @@ Day 9: SQL Tasks
 • Find who earns how much
 • List employees without salary
 
+Day 10: SQL Tasks
+• What are the performance ratings of each employee?
+• Which employees do not have any salary records?
+• Which employees do not have any attendance records?
+• What is the employee name, department, and salary together
+
 
