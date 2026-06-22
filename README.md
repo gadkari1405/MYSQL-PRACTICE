@@ -168,4 +168,10 @@ Day 17: SQL Tasks (GROUP BY + HAVING)
 • List employees with total salary greater than 100000
 • List departments with high average salary (greater than 50000)
 
+Day 18: SQL Tasks (Advanced Filtering & Aggregation)
+• List employees whose average performance rating is greater than 4
+• List employees with more than 2 present days
+• List departments where total salary paid is greater than 200000
+• List employees whose total salary is greater than their department average salary
+
 
