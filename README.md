@@ -174,4 +174,10 @@ Day 18: SQL Tasks (Advanced Filtering & Aggregation)
 • List departments where total salary paid is greater than 200000
 • List employees whose total salary is greater than their department average salary
 
+Day 19: SQL Tasks (CASE WHEN – Categorization)
+• Categorize employees based on salary (Low / Medium / High)
+• Categorize employees based on performance rating (Good / Average / Poor)
+• Categorize employees based on attendance status (Active / Inactive)
+• Categorize employees based on experience level (Fresher / Mid-Level / Experienced)
+
 
