@@ -180,4 +180,10 @@ Day 19: SQL Tasks (CASE WHEN – Categorization)
 • Categorize employees based on attendance status (Active / Inactive)
 • Categorize employees based on experience level (Fresher / Mid-Level / Experienced)
 
+Day 20: SQL Tasks (Window Functions – ROW_NUMBER & Ranking)
+• Retrieve latest salary record for each employee
+• Retrieve first (oldest) salary record for each employee
+• Rank salary entries for each employee
+• Get top 2 salary records per employee
+
 
