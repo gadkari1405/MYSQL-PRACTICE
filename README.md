@@ -186,4 +186,10 @@ Day 20: SQL Tasks (Window Functions – ROW_NUMBER & Ranking)
 • Rank salary entries for each employee
 • Get top 2 salary records per employee
 
+Day 21 : SQL Tasks (RANK & DENSE_RANK)
+• Rank employees based on salary
+• Perform department-wise ranking of employees
+• Identify top performers based on average performance rating
+• Find top 3 employees based on salary ranking
+
 
