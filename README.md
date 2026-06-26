@@ -192,4 +192,9 @@ Day 21 : SQL Tasks (RANK & DENSE_RANK)
 • Identify top performers based on average performance rating
 • Find top 3 employees based on salary ranking
 
+Day 22: SQL Tasks (Window Functions – Department Analysis)
+• Show each employee with average salary of their department
+• Show total salary of each department for every employee
+• Show average performance rating of each department
+
 
