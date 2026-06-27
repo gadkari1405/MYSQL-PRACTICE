@@ -197,4 +197,9 @@ Day 22: SQL Tasks (Window Functions – Department Analysis)
 • Show total salary of each department for every employee
 • Show average performance rating of each department
 
+Day 23: SQL Tasks (LAG – Trend Analysis)
+• Show current salary along with previous salary for each employee
+• Calculate difference between current salary and previous salary
+• Analyze attendance trend (compare current status with previous status)
+
 
