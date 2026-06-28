@@ -202,4 +202,9 @@ Day 23: SQL Tasks (LAG – Trend Analysis)
 • Calculate difference between current salary and previous salary
 • Analyze attendance trend (compare current status with previous status)
 
+Day 24: SQL Tasks (LEAD – Future Trend Analysis)
+• Show current salary along with next salary for each employee
+• Compare current salary with next salary for growth analysis
+• Predict attendance trend by comparing current and next status
+
 
