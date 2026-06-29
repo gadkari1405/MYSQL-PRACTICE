@@ -207,4 +207,8 @@ Day 24: SQL Tasks (LEAD – Future Trend Analysis)
 • Compare current salary with next salary for growth analysis
 • Predict attendance trend by comparing current and next status
 
+Day 25: SQL Tasks (Cumulative Analysis – Running Totals)
+• Calculate running total salary for each employee over time
+• Calculate running attendance count for each employee
+• Calculate cumulative salary for each department over time
 
