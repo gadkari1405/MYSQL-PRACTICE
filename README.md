@@ -212,3 +212,9 @@ Day 25: SQL Tasks (Cumulative Analysis – Running Totals)
 • Calculate running attendance count for each employee
 • Calculate cumulative salary for each department over time
 
+Day 26: SQL Tasks (Department Ranking & Salary Comparison)
+• Find rank of employees within each department based on salary
+• Compare each employee’s salary with their department average (Above Avg / Below Avg / Equal)
+• Find top 3 highest paid employees in each department
+• Find lowest salary employee in each department
+
