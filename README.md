@@ -218,3 +218,11 @@ Day 26: SQL Tasks (Department Ranking & Salary Comparison)
 • Find top 3 highest paid employees in each department
 • Find lowest salary employee in each department
 
+Day 27: SQL Tasks (Overall Salary Comparison)
+• Compare each employee's salary with overall average salary (> avg → Above Avg, < avg → Below Avg,
+
+= avg → Equal)
+• Compare employee salary with total salary of all employees (salary > 10% of total salary → High Contributor, else → Low
+Contributor)
+• Compare department total salary with overall total salary (dept total > 30% of total → High Dept, else → Low Dept)
+
