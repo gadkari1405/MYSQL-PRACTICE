@@ -226,3 +226,9 @@ Day 27: SQL Tasks (Overall Salary Comparison)
 Contributor)
 • Compare department total salary with overall total salary (dept total > 30% of total → High Dept, else → Low Dept)
 
+Day 28: SQL Tasks (Advanced Analysis & Ranking)
+• Find top 2 highest paid employees in each department
+• Calculate salary gap (difference between current salary and previous salary)
+• Calculate performance gap (change in performance between years)
+• Filter only top performers based on ranking
+
