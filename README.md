@@ -232,3 +232,8 @@ Day 28: SQL Tasks (Advanced Analysis & Ranking)
 • Calculate performance gap (change in performance between years)
 • Filter only top performers based on ranking
 
+Day 29: SQL Tasks (Advanced Window Functions & Analysis)
+• Find latest salary per employee along with total salary till that point
+• Rank employees based on salary and compare with department average salary
+• Check whether salary has increased or decreased compared to previous record
+
