@@ -243,3 +243,8 @@ Day 30: SQL Tasks (CTE – Common Table Expressions)
 • Calculate department average salary using CTE
 • Find employees earning more than department average using CTE
 
+Day 31: SQL Tasks (CTE – Multi-Step Analysis)
+• Find employees whose total salary is greater than 100000
+• Show employee salary along with department average salary using CTE
+• Find department with highest total salary
+
