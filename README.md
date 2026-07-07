@@ -254,3 +254,9 @@ Day 32: SQL Tasks (Views – Reusable Queries)
 • Create joined view combining employee and salary details
 • Use created view to filter employees with salary greater than 50000
 
+Day 33: SQL Tasks (Views – Advanced Usage & Updates)
+• Update employee data using a view
+• Create view for high salary employees (salary > 50000) and fetch data from it
+• Create multi-table view combining employee, department, and salary
+• Create HR dashboard view for high salary employees with department name
+
