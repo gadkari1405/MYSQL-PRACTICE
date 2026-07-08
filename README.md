@@ -260,3 +260,8 @@ Day 33: SQL Tasks (Views – Advanced Usage & Updates)
 • Create multi-table view combining employee, department, and salary
 • Create HR dashboard view for high salary employees with department name
 
+Day 34: SQL Tasks (Indexing – Query Optimization)
+• Create index on emp_id to speed up employee search
+• Create index on dept_id for faster department-based filtering
+• Create composite index on (emp_id, salary_date) for optimized multi-column queries
+
