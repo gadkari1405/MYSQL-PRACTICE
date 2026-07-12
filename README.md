@@ -282,3 +282,9 @@ Day 37: SQL Tasks (Stored Procedures – Conditional & Aggregation)
 • Create procedure with CASE statement to categorize employees (High / Medium / Low)
 • Create procedure with aggregation to calculate total salary per employee
 
+Day 38: SQL Tasks (Triggers – Automation & Data Protection)
+• Create BEFORE UPDATE trigger to prevent negative salary updates
+• Create AFTER INSERT trigger to log attendance records automatically
+• Store attendance activity inside attendance_logs table
+• Test trigger execution using UPDATE and INSERT operations
+
