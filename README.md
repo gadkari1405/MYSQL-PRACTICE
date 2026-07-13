@@ -288,3 +288,9 @@ Day 38: SQL Tasks (Triggers – Automation & Data Protection)
 • Store attendance activity inside attendance_logs table
 • Test trigger execution using UPDATE and INSERT operations
 
+Day 39: SQL Tasks (Triggers – Validation & Logging)
+• Create BEFORE INSERT trigger to prevent negative salary insertion
+• Automatically convert negative salary values to 0 before inserting data
+• Create AFTER UPDATE trigger to track salary changes
+• Store old salary and new salary records inside salary_logs table
+
