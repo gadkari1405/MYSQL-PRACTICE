@@ -321,3 +321,11 @@ Day 43: SQL Tasks (Date Formatting, Data Types & Constraints)
 • Add Primary Key constraints to tables
 • Add Foreign Key constraints to maintain relationships between tables
 
+Day 44: SQL Tasks (Basic Analysis)
+• Find total number of customers
+• Find total number of orders
+• Calculate total revenue from payments
+• Calculate average order value
+• Find total products sold
+• Calculate orders per customer using GROUP BY
+
